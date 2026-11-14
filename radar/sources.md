@@ -5,13 +5,18 @@
 ## Первоисточники про Claude Code
 
 - https://code.claude.com/docs/llms.txt — оглавление официальной документации
-- https://code.claude.com/docs/en/changelog — список изменений Claude Code
-- https://github.com/anthropics/claude-code/releases — выпуски
-- https://www.anthropic.com/news — новости Anthropic
-- https://github.com/anthropics/claude-plugins-official — официальный каталог плагинов
+- https://github.com/anthropics/claude-code/releases — выпуски; основной источник истории версий, листать `?page=2`, `?page=3` и дальше
+- https://code.claude.com/docs/en/changelog — список изменений; страница огромная, годится только для последней недели
+- https://code.claude.com/docs/en/memory — как Claude Code читает памятки и хранит память; по ней сверять урок про папки
+- https://code.claude.com/docs/en/skills — где лежат скиллы и как вызываются; по ней сверять уроки про сайт и про скиллы
+- https://claude.com/marketplace/plugins — веб-каталог плагинов с пометкой «Anthropic verified»
+- https://github.com/anthropics/claude-plugins-official — официальный каталог плагинов (страница списка не показывает, смотреть веб-каталог выше)
 - https://github.com/anthropics/skills — официальные скиллы
+- https://www.anthropic.com/news — новости Anthropic; про Claude Code там мало, в основном анонсы моделей
 
 ## Готовые среды, упомянутые в уроках
+
+Дату последней версии смотреть на странице `/releases` каждого.
 
 - https://github.com/obra/superpowers — Superpowers
 - https://github.com/github/spec-kit — Spec Kit
@@ -19,7 +24,10 @@
 
 ## Каталоги, где искать новые среды
 
-- https://github.com/hesreallyhim/awesome-claude-code
+Оба списка рассчитаны на разработчиков. Источника, который собирает среды
+именно для не-программистов, пока нет — если найдётся, дописать.
+
+- https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README.md — awesome-claude-code (обычная страница репозитория список не отдаёт)
 - https://github.com/VoltAgent/awesome-claude-code-subagents
 
 ## Темы, за которыми следить
